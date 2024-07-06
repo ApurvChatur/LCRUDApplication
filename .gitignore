@@ -1,0 +1,13 @@
+# Backend
+./site/backend/node_modules
+site/backend/node_modules
+
+./site/backend/.env
+site/backend/.env
+
+# Frontend
+./site/frontend/node_modules
+site/frontend/node_modules
+
+./site/frontend/.env
+site/frontend/.env
